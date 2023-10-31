@@ -1,2 +1,2 @@
 # F11-Android
-MVVM, Dagger2, Mavigation Component
+This is a sample app that uses Android Architecture Components with Dagger 2.
